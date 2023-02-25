@@ -1,5 +1,5 @@
 # Ford GoBike System Data Exploration
-## by Ayanwoye Gideon Ayandele
+## by Omer Zaman
 
 ## Overview
 Ford GoBike System Data Exploration and Findings Communication: This document explores a dataset with information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in 2019
@@ -41,6 +41,3 @@ For the presentation:\
 * The presentation showed that there indeed is a dependency of the average trip duration on if a user is a subscriber or a customer. On average, customers rides lasted longer than subscribers rides on every day of the week and time of the day
 
 
-## Feedback
-
-If you have any feedback, please reach out to me at ayangidel@hotmail.com
